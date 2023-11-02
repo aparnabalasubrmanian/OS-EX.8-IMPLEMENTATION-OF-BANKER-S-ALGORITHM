@@ -5,6 +5,7 @@ AIM:
 ALGORITHM:
 
 PROGRAM:
+``![image](https://github.com/aparnabalasubrmanian/OS-EX.8-IMPLEMENTATION-OF-BANKER-S-ALGORITHM/assets/123351172/67917156-ba9b-4445-b805-989ab7f40e50)
 
 OUTPUT:
 
